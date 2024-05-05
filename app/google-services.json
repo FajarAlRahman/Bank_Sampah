@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304212389447",
+    "project_id": "banksampah-933df",
+    "storage_bucket": "banksampah-933df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304212389447:android:7b6ab4c536dfd721920b62",
+        "android_client_info": {
+          "package_name": "com.example.banksampah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAdQBEy9vjLQ2c7aB_zVucf5LXmZdEGio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

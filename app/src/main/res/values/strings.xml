@@ -1,0 +1,50 @@
+<resources>
+    <string name="tag">HelloWord!!</string>Username
+    <string name="hint_login_email">Email</string>
+    <string name="hint_register_username">Username</string>
+    <string name="hint_login_password">Password</string>
+    <string name="app_name">BankSampah</string>
+    <string name="login">Login</string>
+    <string name="login_title">LOGIN</string>
+    <string name="alert_ambilbarang">Mohon isi data dengan benar</string>
+    <string name="nama_pengguna_ambilsampah">Nama Pengguna</string>
+    <string name="hint_username_ambilsampah">Masukkan Nama Lengkap</string>
+    <string name="kategori_sampah">Kategori Sampah</string>
+    <string name="berat_kg">Berat (Kg)</string>
+    <string name="hint_2_kg">2 Kg</string>
+    <string name="hint_rp_1_000">Rp 1.000</string>
+    <string name="harga_kg">Harga (/Kg)</string>
+    <string name="email">Email</string>
+    <string name="registerbtn">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="btn_login_register">Register</string>
+    <string name="lupa_password">Lupa Password ?</string>
+    <string name="daftar_sampah">Daftar Sampah</string>
+    <string name="todo">TODO</string>
+    <string name="catatan_opsional">Catatan (Opsional)</string>
+    <string name="alamat">Alamat</string>
+    <string name="kirim">Kirim</string>
+    <string name="ambil_sampah">Ambil Sampah</string>
+    <string name="masukkan_alamat">Masukkan Alamat</string>
+    <string name="masukkan_catatan">Masukkan Catatan</string>
+    <string name="btn_back">btn_back</string>
+    <string name="deskripsi_jenis">Sampah merupakan hasil produksi manusia yang tidak akan pernah luput dari kehidupan sehari-hari. Lalu, jenis-jenis sampah apa yang biasanya kita hasilkan? Yuk, kenali di sini.\n\nSampah jika dibiarkan saja akan mengganggu kebersihan lingkungan secara umum. Sampah dapat dibedakan menjadi dua macam, yaitu:</string>
+    <string name="anorganik"><b>1. Sampah Padat (Anorganik)</b>\n\nSampah anorganik adalah sampah yang terdiri atas bahan-bahan anorganik. Contoh bahan-bahan anorganik adalah bahan logam, plastik, kaca, karet, dan kaleng. Sifat sampah anorganik adalah tahan lama dan sukar membusuk.\n\nSampah ini tidak mudah diuraikan oleh mikroorganisme tanah. Apabila dibuang sembarangan, sampah anorganik dapat menimbulkan pencemaran tanah.</string>
+    <string name="organik"><b>2. Sampah Basah (Organik)</b>\n\nSampah organik adalah sampah yang terdiri atas bahan-bahan organik. Sifat sampah organik adalah tidak tahan lama dan cepat membusuk. Biasanya sampah jenis ini berasal dari makhluk hidup. Contohnya adalah sayur-sayuran, buah-buah yang membusuk, sisa nasi, daun, dan sebagainya.\n\nSampah organik mudah diuraikan mikroorganisme tanah. Hanya saja jenis sampah akan menimbulkan bau kurang sedap jika tidak dikelola dengan baik.</string>
+    <string name="image_button_description" />
+    <string name="navigate_to_the_previous_screen">Navigate to the previous screen</string>
+    <string name="jenis_jenis_sampah">Jenis-jenis Sampah</string>
+    <string-array name="kategori_sampah">
+        <item>Plastik</item>
+        <item>Kertas</item>
+        <item>Kardus</item>
+        <item>Organik</item>
+    </string-array>
+    <string-array name="harga_perkilo">
+        <item>1500</item>
+        <item>3000</item>
+        <item>800</item>
+        <item>1000</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

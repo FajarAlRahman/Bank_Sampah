@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BankSampah" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorControlActivated">@android:color/transparent</item>
+
+    </style>
+
+    <style name="TextLabel" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/black</item>
+        <!-- Tambahkan atribut lain sesuai kebutuhan -->
+    </style>
+
+    <style name="Theme.BankSampah" parent="Base.Theme.BankSampah" />
+</resources>
